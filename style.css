@@ -31,6 +31,7 @@
 .border:hover{
     border: 1.5px solid white;
 }
+
 /****box 2 ***/
 
 .Add-first{
@@ -47,7 +48,7 @@
     display: flex;
     align-items: center;
 }
-/****box 3 **/
+/****box 3  serch box section**/
 .nav-search{
     display: flex;
     justify-content: space-evenly;
@@ -84,8 +85,16 @@
     border: 2px solid rgb(0, 0, 0);
 }
 
-/**** box 4 ***/
+/**** country choice ***/
 
+.nav-country i{
+    font-size: 20px;
+    font-weight:  700;
+}
+
+ 
+/**** box 4 Hello sign section ***/
+ 
 span{
     font-size: 0.85 rem;
     font-weight: 700;
@@ -127,7 +136,7 @@ span{
     font-size: 0.9rem;
     font-weight: 700;
 }
-/**** hreo */
+/**** hero */
 
 
 
