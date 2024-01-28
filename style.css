@@ -5,7 +5,7 @@
 }
 .navbar{
     height: 60px;
-    background-color: #0f1111;
+    background-color: #37475a;
     color:white;
     display: flex;
     align-items: center;
@@ -19,7 +19,7 @@
 
 .logo{
     background-image: url(amazonlogo.png);
-    background-size: cover;
+    background-size:cover;
     height: 50px;
     width: 100%;
 }
@@ -52,7 +52,6 @@
 .nav-search{
     display: flex;
     justify-content: space-evenly;
-    /* background-color: #ecb5b5; */
     width: 620px;
     height: 40px;
     border-radius: 4px;
@@ -82,7 +81,7 @@
 }
 
 .nav-search:hover{
-    border: 2px solid rgb(0, 0, 0);
+    border: 2px solid rgb(243, 227, 227);
 }
 
 /**** country choice ***/
