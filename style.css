@@ -14,15 +14,12 @@
 }
 .nav-logo{
     height: 50px;
-    width: 100px;
-}
-
-.logo{
+    width: 120px;
     background-image: url(/images/amazonlogo.png);
     background-size:cover;
-    height: 50px;
-    width: 100%;
 }
+
+
 .border{
     border: 2px solid transparent;
  
